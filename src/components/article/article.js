@@ -87,6 +87,13 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Thanos vs the Avengers',
+    date: 'April 7th, 2018',
+    firstParagraph: 'This is a great article about the Avengers vs the greatest super villain of all: Thanos! The Avengers must unite and be at their very best to take down Thanos.',
+    secondParagraph: ' Captian America, Black Widow, Hawkeye, The Hulk, Iron Man, Thor, Ant Man, Spiderman, Dr. Strange.',
+    thirdParagraph: 'Black Panther, Wakanda, Captain Marvel, Nick Fury, Scarlett Witch, Vision, Winter Soldier.'
   }
 ];
 
